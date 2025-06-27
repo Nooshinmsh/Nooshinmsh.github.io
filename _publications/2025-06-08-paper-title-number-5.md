@@ -1,21 +1,17 @@
 ---
-title: "Evaluating BFASTMonitor algorithm in monitoring deforestation dynamics in coniferous and deciduous forests with LANDSAT time series: A case study on Marmara region, Turkey"
+title: "Tropical dry climates"
 collection: publications
 category: books
-date: 2022-11-16
-venue: 'ISPRS International Journal of Geo-Information'
-paperurl: 'https://doi.org/10.3390/ijgi11110573'
-citation: 'Mashhadi, N., & Alganci, U. (2022). Evaluating BFASTMonitor algorithm in monitoring
-deforestation dynamics in coniferous and deciduous forests with LANDSAT time series: A
-case study on Marmara region, Turkey.'
+date: 2025-01-09
+venue: 'Springer Nature Switzerland'
+paperurl: 'https://doi.org/10.1007/978-3-031-75027-4 8'
+citation: 'Chapter 8: Tropical Dry Climates Sanchez-Azofeifa, A., Stan, K., & Mashhadi, N.
+(2025). Tropical dry climates. In Phenology: an integrative environmental science (pp.
+155-170). Cham: Springer Nature Switzerland.'
 ---
-Time series analysis combined with remote sensing data allows for the study of abrupt changes in the environment due to significant and severe disturbances such as deforestation, 
-agricultural activities, fires, and urban expansion, as well as gradual changes such as climate variability and forest degradation in the ecosystem. The precision of any change 
-detection analysis is highly dependent upon its ability to separate actual changes and fluctuations on a seasonal scale. One of the efficient methods in this context is using the 
-Breaks for Additive Seasonal and Trend (BFAST) set of algorithms. This study aims to perform a comprehensive and comparative evaluation of different Vis’ performance in forest 
-degradation with the Landsat 8 images and BFASTMonitor approach. Through evaluation, the study also considers the potential effects of different forest types and deforestation 
-scales in the Marmara region of Turkey. For this purpose, the Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI), Normalized Difference Moisture Index 
-(NDMI), and Normalized Burn Ratio (NBR) vegetation indices (VI) were selected for a comparative evaluation. The overall accuracy of VIs in deciduous forests was around 85% for 
-NDVI, NDMI, and NBR, and 78.80% for EVI, while in coniferous forests, the overall accuracy demonstrated higher values of about 88% for NDVI, NDMI, and EVI, and 87.28% for NBR. 
-Consequently, water-sensitive VIs that utilize shortwave infrared bands proved to be slightly more sensitive in detecting forest disturbances while chlorophyll-sensitive VIs 
-represented lower accuracy for both forest types. Overall, all VIs …
+Unique Forest ecosystems with strong phenological patterns characterize tropical dry climates. In the Americas, tropical dry forests (TDFs) now occupy only 40% of their original 
+area and are significantly affected by deforestation because of their location in regions with fertile soils, resulting in significant losses of ecosystem services and 
+biodiversity. Furthermore, at the global level, TDFs serve as barometers to assess the impact of climate change in tropical environments. This chapter provides an overview of the 
+ecological characteristics of forests in dry tropical climates. It explores the interplay between environmental change, conservation biology, and land use/cover change, 
+highlighting the role of remote sensing in tropical dry environments. This chapter concludes by discussing prospective research paths to understand further the ecological 
+mechanisms in forests in tropical dry climates.
