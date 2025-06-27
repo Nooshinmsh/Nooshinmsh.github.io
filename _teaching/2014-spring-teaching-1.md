@@ -8,7 +8,7 @@ date: 2025-01-09
 location: "Edmonton, AB, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led and organized laboratory sessions for undergraduate courses, mentoring students in geomorphology and GIS.
 
 Heading 1
 ======
