@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Alberta"
-date: 2021-2024-01
+date: 2024-09-01
 location: "Edmonton, AB, Canada"
 ---
 
