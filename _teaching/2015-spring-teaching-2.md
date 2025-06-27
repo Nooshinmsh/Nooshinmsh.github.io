@@ -1,7 +1,7 @@
 ---
 title: "Environmental Application of Geographical Information System (GIS)."
 collection: teaching
-type: "Workshop"
+type: "Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Alberta"
 date: 2024-09-01
