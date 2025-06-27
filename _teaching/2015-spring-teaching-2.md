@@ -8,7 +8,7 @@ date: 2024-09-01
 location: "Edmonton, AB, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Designed and delivered course materials, helping students understanding of complex concepts.
 
 Heading 1
 ======
