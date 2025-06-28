@@ -10,11 +10,4 @@ location: "Edmonton, AB, Canada"
 
 Led and organized laboratory sessions for undergraduate courses, mentoring students in geomorphology and GIS.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
