@@ -10,11 +10,4 @@ location: "Edmonton, AB, Canada"
 
 Designed and delivered course materials, helping students understanding of complex concepts.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
