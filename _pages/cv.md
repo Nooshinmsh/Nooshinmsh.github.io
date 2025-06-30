@@ -9,44 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Research experience
-======
-* Summer 2024: Researcher, Mitacs Canada / Veritree
-  * Project: Evaluating Mangroves Vulnerability Risk Assessment in Kenya and Tanzania.
-  * Duties includes:Conducted research on risk assessment methodologies, focusing on the application of
-the Analytic Hierarchy Process (AHP) to evaluate environmental risks.
-– Contributed to identifying and mitigating potential risks in mangrove ecosystems through
-data analysis and stakeholder engagement.
-– Developed system dynamics models to compute and simulate the mangrove vulnerability
-index using Stella Architect.
-– Collaborated with experts and stakeholders at Veritree to generate actionable insights
-for enhancing project outcomes.
- 
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Proficient in Python, R
+* Software: ArcGIS, QGIS, ArcPro, SNAP, ERDAS IMAGINE, ENVI, Global Mapper, Google Earth Pro, Cloud Compare
+* Cloud Platforms: Google Earth Engine
+* Machine/Deep Learning Frameworks: TensorFlow, PyTorch
+* LiDAR Tools: LAStools, FUSION, LiDAR360, Agisoft
+* Version Control & Project Management: Git, Jupyter Notebooks
 
 Publications
 ======
