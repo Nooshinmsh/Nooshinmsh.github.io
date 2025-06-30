@@ -6,11 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Remote sensing data indicates a considerable ability to map post-forest fire destructed areas and burned severity. In this research, the ability of spectral indices, 
 which are difference Normalized Burned Ratio (dNBR), relative differenced Normalized Burn Ratio (RdNBR), Relativized Burn Ratio (RBR), and difference Normalized Vegetation Index 
 (dNDVI), in mapping burn severity was investigated. The research was conducted with free access moderate to high-resolution Landsat 8 and Sentinel 2 satellite images for two 
-forest fires cases that occurred in Izmir and Antalya provinces of Turkey. Performance of the burn severity maps from different indices were validated by use of NASA Firms active 
-fires dataset. The results confirmed that, RdNBR showed more precise results than the other indices with an accuracy of (89%, 93%) and (84%, 79%) for Landsat 8 and Sentinel 2 
-satellites over Izmir and Antalya respectively. Moreover, in this research, the ability of machine learning classifiers, which are Support Vector Machine (SVM) and Random Forest 
-(RF), in mapping burned areas were evaluated. According to the accuracy metrics that are user’s accuracy, producer's accuracy and Kappa coefficient, we concluded that both 
-classifiers indicate reliable and accurate detection for both regions.'
+forest fires cases that occurred in Izmir and Antalya provinces of Turkey.'
 date: 2021-12-15
 venue: 'International Journal of Environment and Geoinformatics'
 paperurl: 'https://doi.org/10.30897/ijegeo.879669'
