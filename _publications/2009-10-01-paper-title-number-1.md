@@ -12,6 +12,6 @@ formulated the mathematical expression of the second law, which asserts that ent
 date: 2025-07-28
 venue: 'CRC Press'
 paperurl: 'https://books.google.ca/books?hl=en&lr=&id=tgxlEQAAQBAJ&oi=fnd&pg=PA73&dq=info:IMQxzrs3WAIJ:scholar.google.com&ots=CmhFgqaXQQ&sig=p1RgpffR6T-9BEk2Nu-bT0P9oc8&redir_esc=y#v=onepage&q&f=false'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Mashhadi, N., & Sanchez-Azofeifa, A. Entropy in Tropical Dry Ecosystems. In Remote Sensing of Tropical Dry Forests in the Americas (pp. 73-86). CRC Press.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
