@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcomto my personal websites!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcomto my personal websites!
 I am a PhD in the Environmental and Ecological Sciences program. My work focuses on using remote sensing and Geographic Information Systems (GIS) to support environmental 
 research. I am passionate and advanced in coding in R and Python, and I love exploring new ways to analyze data, solve challenges, and keep learning along the way.My research 
 spans a wide range of topics, including forest fire, risk assessment, forest succession, liana infestation, and ecological modelling. I have contributed to various projects 
