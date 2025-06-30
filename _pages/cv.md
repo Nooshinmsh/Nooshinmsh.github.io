@@ -26,7 +26,7 @@ Awards and Honors
 * First Place Poster Award, International Society for Ecological Modeling (ISEM), 2023.
 * Graduate Student Teaching Award, University of Alberta, 2023.
 
-Publications
+Recent Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
