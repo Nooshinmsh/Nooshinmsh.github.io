@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Planet Earth"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Alberta, Department of Earth and Atmospheric Sciences"
+date: 2021-2025
 location: "City, Country"
 ---
 
