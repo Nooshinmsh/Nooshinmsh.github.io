@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 excerpt: ''
 date: 2023-12-14
-venue: 'GitHub Journal of Bugs'
+venue: 'American Geophysical Union (AGU)'
 paperurl: ''
 citation: 'Mashhadi, N., Sanchez-Azofeifa, G. A., & Valbuena, R. (2023). Modelling Entropy in Tropical Forest Ecosystems. AGU23.'
 ---
