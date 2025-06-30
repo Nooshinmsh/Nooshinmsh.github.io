@@ -19,6 +19,13 @@ Skills
 * LiDAR Tools: LAStools, FUSION, LiDAR360, Agisoft
 * Version Control & Project Management: Git, Jupyter Notebooks
 
+Awards and Honors
+======
+* Doctoral Dissertation Award (Nomination), Faculty of Science, University of Alberta, Canada, 2025.
+* Graduate Student Teaching Award, University of Alberta, 2025.
+* First Place Poster Award, International Society for Ecological Modeling (ISEM), 2023.
+* Graduate Student Teaching Award, University of Alberta, 2023.
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -39,4 +46,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Led and supervised a fieldwork trip to Costa Rica:
+     * Managed and supervised a multidisciplinary team of undergraduate students in tropical forest tree stem data collection.
+     * Delegated responsibilities and ensured accurate and consistent data recording, resulting in high-quality research outputs.
+     * Conducted training sessions for GPS and field equipment usage, improving team efficiency and competence.
