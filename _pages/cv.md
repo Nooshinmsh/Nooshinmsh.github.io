@@ -21,7 +21,7 @@ Skills
 
 Awards and Honors
 ======
-* Doctoral Dissertation Award (Nomination), Faculty of Science, University of Alberta, Canada, 2025.
+* Doctoral Dissertation Award, Faculty of Science, University of Alberta, Canada, 2025.
 * Graduate Student Teaching Award, University of Alberta, 2025.
 * First Place Poster Award, International Society for Ecological Modeling (ISEM), 2023.
 * Graduate Student Teaching Award, University of Alberta, 2023.
